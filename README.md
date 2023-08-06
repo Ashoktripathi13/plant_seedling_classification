@@ -2,6 +2,7 @@
 # plant seedling classification
 
 Plant seedling classification is a computer vision and machine learning task that involves identifying and categorizing different species of plant seedlings based on images of their seedlings. The goal is to develop a model that can accurately distinguish between various plant species at an early stage, which can be useful in agriculture, horticulture, and biodiversity conservation.
+the model can be downloaded from [here ](https://drive.google.com/file/d/1Jlt97VQ48WXctaAGStBt50tp_LHN24G6/view?usp=drive_link)
 
 
 
